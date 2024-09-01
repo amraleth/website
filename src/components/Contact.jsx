@@ -29,6 +29,8 @@ const Contact = () => {
           <a href="mailto:me@amraleth.xyz" className="underline">
             me@amraleth.xyz
           </a>
+
+          <p className="flex justify-center pt-10">Amraleth &copy; 2024</p>
         </motion.p>
       </div>
     </div>
