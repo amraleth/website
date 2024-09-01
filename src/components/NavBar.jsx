@@ -15,9 +15,6 @@ const NavBar = () => {
         <a href="https://github.com/amraleth">
           <FaGithub className="text-gray-500" />
         </a>
-        <a href="https://instagram.com/vollderpatrick">
-          <FaInstagram className="text-purple-500" />
-        </a>
         <a href="https://open.spotify.com/user/31kw3phdon73aizghyv7n443va7e?si=46375312e9594190">
           <FaSpotify className="text-green-500" />
         </a>
